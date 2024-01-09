@@ -1,1 +1,52 @@
-{}
+{
+  "assetImages": [
+    {
+      "url": "https://placehold.co/600x400.png",
+      "thumbUrl": "https://placehold.co/600x400.png",
+      "name": "600x400-0.png",
+      "category": "Level1-Cat1",
+      "description": ""
+    },
+    {
+      "url": "https://placehold.co/700x400.png",
+      "thumbUrl": "https://placehold.co/700x400.png",
+      "name": "600x400-1.png",
+      "category": "Level1-Cat1",
+      "description": ""
+    },
+    {
+      "url": "https://placehold.co/700x500.png",
+      "thumbUrl": "https://placehold.co/700x500.png",
+      "name": "600x400-3.png",
+      "category": "Level1-Cat3",
+      "description": ""
+    },
+    {
+      "url": "https://placehold.co/800x400.png",
+      "thumbUrl": "https://placehold.co/800x400.png",
+      "name": "800x400.png",
+      "category": "Level1-Cat2",
+      "description": ""
+    },
+    {
+      "url": "https://placehold.co/900x400.png",
+      "thumbUrl": "https://placehold.co/900x400.png",
+      "name": "Bug-11.png",
+      "category": "Uncategorized",
+      "description": ""
+    },
+    {
+      "url": "https://placehold.co/900x500.png",
+      "thumbUrl": "https://placehold.co/900x500.png",
+      "name": "800-root.png",
+      "category": "Level1-1-Cat1",
+      "description": ""
+    }
+  ],
+  "categories": [
+    { "name": "Level1-Cat1", "parent": "" },
+    { "name": "Level1-Cat2", "parent": "" },
+    { "name": "Level1-1-Cat1", "parent": "Level1-Cat1" },
+    { "name": "Uncategorized", "parent": "" }
+  ]
+}
